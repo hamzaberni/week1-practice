@@ -9,3 +9,7 @@ h1 {
 p {
     color: crimson;
 }
+img {
+    width: 400px;
+    height: 300px;
+}
